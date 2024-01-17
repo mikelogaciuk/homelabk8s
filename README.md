@@ -1,5 +1,11 @@
 # homelabk8s
 
+- [homelabk8s](#homelabk8s)
+  - [Essentials](#essentials)
+  - [K3D](#k3d)
+  - [Bitnami Helm Repo](#bitnami-helm-repo)
+  - [Minio (AWS S3 storage type)](#minio-aws-s3-storage-type)
+
 ## Essentials
 
 For the sake of this home-lab you should have installed (preferably on Debian or Ubuntu derived distro):
